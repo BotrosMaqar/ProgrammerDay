@@ -1,0 +1,12 @@
+{
+  "name": "programmersday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "programmersDay.js",
+    "myScript": "node -e 'require(\"./programmersDay\").getDayOfProgrammer(1970)'"
+  },
+  "author": "",
+  "license": "ISC"
+}
